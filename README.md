@@ -1,5 +1,5 @@
 <div align=center>
-	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Qmffnald%20Github!&fontSize=90" />	
+	<img src="https://capsule-render.vercel.app/api?type=waving&color=dee2e6&height=200&section=header&text=Qmffnald%20Github!&fontSize=90" />	
 </div>
 <div align=center>
 	<h3>📚 Tech Stack 📚</h3>
@@ -43,13 +43,13 @@
 <div align=center>
 	</a>
 	<a href="https://discord.gg/cXJvRkhPfw">
-		<img src="https://img.shields.io/badge/discord-FF9800?style=flat&logo=discord&logoColor=white" />
+		<img src="https://img.shields.io/badge/discord-5865F2?style=flat&logo=discord&logoColor=white" />
 	</a>
 	<a href="mailto:bloooming1234@gmail.com">
-		<img src="https://img.shields.io/badge/Gmail-30B980?style=flat&logo=Gmail&logoColor=white" />
+		<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white" />
 	</a>
 	<a href="https://www.instagram.com/qmffnald0621/">
-		<img src="https://img.shields.io/badge/Instagram-000000?style=flat&logo=Instagram&logoColor=white" />
+		<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white" />
 	</a>
 	<br>
 </div>
