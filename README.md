@@ -42,14 +42,8 @@
 </div>
 <div align=center>
 	</a>
-	<a href="https://discord.gg/cXJvRkhPfw">
-		<img src="https://img.shields.io/badge/discord-5865F2?style=flat&logo=discord&logoColor=white" />
-	</a>
-	<a href="mailto:bloooming1234@gmail.com">
+	<a href="mailto:qmffnald6797@gmail.com">
 		<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white" />
-	</a>
-	<a href="https://www.instagram.com/qmffnald0621/">
-		<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white" />
 	</a>
 	<br>
 </div>
